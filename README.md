@@ -1,6 +1,6 @@
 ### Olá mundo hahaha eu sou Victor 👋
 
-- 🔭 Atualmente trabalho com suporte de atendimento, mas estou migrando e sei que vou me tornar um DEV incrível!
+- 🔭 Atualmente trabalho com suporte de atendimento, mas estou em transição de carreira e sei que vou me tornar um DEV incrível!
 - 🌱 Estou cursando análise e desenvolvimento de sistema e realizando um BootCamp na DIO!
 - 🤔 Sei que a ajuda de DEV's mais experientes é extramente importante e serei muito grato a todos que me apoiarem nesse novo desafio!
 - 📫 Podem me contatar no meu WhatsApp: (11) 95743-5019
