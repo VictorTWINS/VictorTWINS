@@ -1,11 +1,11 @@
-### Olá mundo hahaha eu sou Victor 👋
+### Hello World, I'm Victor! 👋
 
-- 🔭 Atualmente trabalho com suporte de atendimento, mas estou em transição de carreira e sei que vou me tornar um DEV incrível!
-- 🌱 Estou cursando análise e desenvolvimento de sistema e realizando um BootCamp na DIO!
-- 🤔 Sei que a ajuda de DEV's mais experientes é extramente importante e serei muito grato a todos que me apoiarem nesse novo desafio!
-- 📫 Podem me contatar no meu WhatsApp: (11) 95743-5019
-- 😄 Pronomes:Ele/Dele
-- ⚡ Um fato legal sobre mim é que eu sou gêmeo, tenho mais duas irmãs gemêas só que são 32 anos mais velhas e elas fazem aniversário dia 28/07 e eu e meu irmão fazemos dia 29/07
+🎓 Graduate in Analysis and Systems Development.
+🏗️ Currently transitioning to Full Stack Development, specializing in the JavaScript ecosystem (React, Node.js, TypeScript).
+💼 Professional Background: Experience managing complex systems like Salesforce (CRM) and ERPs, which gave me a solid foundation in data integrity and problem-solving.
+🛠️ Learning Path: Deep diving into modern HTML5, CSS3 (Flexbox/Grid), and Clean Code practices.
+
+📫 Connect with me: www.linkedin.com/in/victor-montinegro-de-assunção-0628121b5
 
 <div>
   <a href="https://github.com/VictorTWINS">
