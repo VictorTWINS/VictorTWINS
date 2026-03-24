@@ -1,26 +1,34 @@
-# Full-Stack-Projects
-Este repositório é dedicado ao armazenamento de projetos, exercícios e desafios práticos desenvolvidos durante o **Curso de JavaScript e TypeScript** e outros estudos autônomos.
+# Olá, eu sou o Victor! 👋
 
-O foco aqui é a construção de uma base sólida em desenvolvimento Web, seguindo as melhores práticas de Clean Code e arquitetura.
+### 🚀 Desenvolvedor Full-Stack em Formação | ADS
+Sou um entusiasta de tecnologia apaixonado por transformar lógica em soluções reais. Atualmente, estou mergulhando de cabeça no desenvolvimento Full-Stack para consolidar minha carreira na área de TI.
 
-## 🛠️ Tecnologias em Estudo
-- **Frontend:** HTML5 (Semântico), CSS3 (Flexbox/Grid), JavaScript (ES6+).
-- **Backend (Próximos Passos):** Node.js, Express, TypeScript.
-- **Banco de Dados:** SQL e MongoDB.
+---
 
-## 📂 Estrutura do Repositório
-Para facilitar a navegação, os projetos estão organizados por módulos:
+## 🛠️ Sobre Mim
+* 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
+* 📚 Especializando-me em **JavaScript, TypeScript e Node.js** (Curso Luiz Otávio Miranda - Udemy).
+* 💼 Atualmente trabalhando com logística, desenvolvendo disciplina e visão analítica de processos.
+* 🏠 Baseado em Embu das Artes, SP.
 
-- `01-html-css/`: Exercícios de estrutura, semântica e estilização moderna.
-- `02-javascript-basico/`: Lógica de programação, variáveis, funções e condicionais.
-- `03-javascript-avancado/`: Manipulação de DOM, Promises, Async/Await e API Consumption (em breve).
-- `04-projetos-completos/`: Landing pages e aplicações reais desenvolvidas no curso.
+---
 
-## 📖 Progresso Atual
-- [x] HTML5 e CSS3: Estruturação e Design Responsivo.
-- [ ] JavaScript: Lógica de programação (Em andamento ⏳).
-- [ ] TypeScript & Node: (Aguardando...).
+## 💻 No que estou trabalhando agora?
+Meu foco atual é o repositório [Full-Stack-Projects](https://github.com/VictorTWINS/Full-Stack-Projects), onde organizo minha evolução em:
+* **Módulo 01:** HTML5 Semântico e CSS3 Avançado.
+* **Módulo 02:** Lógica de Programação com JavaScript.
+* **Módulo 03:** Node.js e APIs.
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a8cf8850-0fdf-4361-a412-dabe6986f433" /> Rede Social
+---
 
-Perfil linkeding-Victor: www.linkedin.com/in/victor-montinegro-de-assunção-0628121b5
+## 🎮 Curiosidades e Hobbies
+* 🎸 Toco violão nas horas vagas.
+* 🎮 Gamer e entusiasta de hardware (curto montar setups produtivos).
+* ⚽ Gosto de futebol e vôlei para manter o equilíbrio.
+* 🐱 Pai de uma gatinha.
+
+---
+
+## 📬 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorTWINS)
